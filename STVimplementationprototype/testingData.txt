@@ -1,0 +1,7 @@
+5
+20
+Oranges 4 2
+Chocolate 12 0
+Pears 2 0
+Strawberries 1 0
+Sweets 1 0
