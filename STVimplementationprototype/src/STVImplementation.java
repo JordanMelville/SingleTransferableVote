@@ -178,5 +178,3 @@ public void LoadVotingData(String file) throws FileNotFoundException {
 	} 
 	}
 }
-
-
